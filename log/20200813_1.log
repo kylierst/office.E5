@@ -1,0 +1,208 @@
+﻿14:22:02[Information][1,0,]Application started. Press Ctrl+C to shut down.
+14:22:02[Information][1,0,]Hosting environment: Development
+14:22:02[Information][1,0,]Content root path: E:\hisWork\office365
+14:23:07[Information][20,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive/root-------<<<<成功
+14:23:08[Information][20,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive-------<<<<成功
+14:23:09[Information][20,0,]执行------>>>>>https://graph.microsoft.com/v1.0/drive/root-------<<<<成功
+14:23:10[Information][20,0,]执行------>>>>>https://graph.microsoft.com/v1.0/users-------<<<<成功
+14:23:10[Information][20,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/messages-------<<<<成功
+14:23:11[Information][20,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders/inbox/messageRules-------<<<<成功
+14:23:11[Information][20,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders/Inbox/messages/delta-------<<<<成功
+14:23:12[Information][20,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive/root/children-------<<<<成功
+14:23:13[Information][20,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders-------<<<<成功
+14:23:13[Information][20,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/outlook/masterCategories-------<<<<成功
+14:23:17[Error][20,0,]The SSL connection could not be established, see inner exception. Unable to read data from the transport connection: 远程主机强迫关闭了一个现有的连接。.
+14:24:22[Information][27,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive/root-------<<<<成功
+14:24:27[Information][27,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive-------<<<<成功
+14:24:29[Information][27,0,]执行------>>>>>https://graph.microsoft.com/v1.0/drive/root-------<<<<成功
+14:24:30[Information][27,0,]执行------>>>>>https://graph.microsoft.com/v1.0/users-------<<<<成功
+14:24:30[Information][27,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/messages-------<<<<成功
+14:24:30[Information][27,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders/inbox/messageRules-------<<<<成功
+14:24:31[Information][27,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders/Inbox/messages/delta-------<<<<成功
+14:24:32[Information][27,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive/root/children-------<<<<成功
+14:24:33[Information][27,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders-------<<<<成功
+14:24:34[Information][27,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/outlook/masterCategories-------<<<<成功
+14:24:34[Error][27,0,]The SSL connection could not be established, see inner exception. Unable to read data from the transport connection: 远程主机强迫关闭了一个现有的连接。.
+14:25:35[Information][34,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive/root-------<<<<成功
+14:25:36[Information][34,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive-------<<<<成功
+14:25:37[Information][34,0,]执行------>>>>>https://graph.microsoft.com/v1.0/drive/root-------<<<<成功
+14:25:38[Information][34,0,]执行------>>>>>https://graph.microsoft.com/v1.0/users-------<<<<成功
+14:25:38[Information][34,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/messages-------<<<<成功
+14:25:38[Information][34,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders/inbox/messageRules-------<<<<成功
+14:25:39[Information][34,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders/Inbox/messages/delta-------<<<<成功
+14:25:40[Information][34,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive/root/children-------<<<<成功
+14:25:40[Information][34,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders-------<<<<成功
+14:25:41[Information][34,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/outlook/masterCategories-------<<<<成功
+14:25:41[Error][34,0,]The SSL connection could not be established, see inner exception. Unable to read data from the transport connection: 远程主机强迫关闭了一个现有的连接。.
+14:28:21[Error][41,0,]The operation has timed out.
+14:28:21[Error][41,0,]The remote server returned an error: (401) Unauthorized.
+14:29:24[Information][48,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive/root-------<<<<成功
+14:29:26[Information][48,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive-------<<<<成功
+14:29:27[Information][48,0,]执行------>>>>>https://graph.microsoft.com/v1.0/drive/root-------<<<<成功
+14:29:27[Information][48,0,]执行------>>>>>https://graph.microsoft.com/v1.0/users-------<<<<成功
+14:29:37[Information][48,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/messages-------<<<<成功
+14:29:40[Information][48,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders/inbox/messageRules-------<<<<成功
+14:29:41[Information][48,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders/Inbox/messages/delta-------<<<<成功
+14:29:42[Information][48,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive/root/children-------<<<<成功
+14:29:43[Information][48,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders-------<<<<成功
+14:29:43[Information][48,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/outlook/masterCategories-------<<<<成功
+14:29:43[Error][48,0,]The SSL connection could not be established, see inner exception. Unable to read data from the transport connection: 远程主机强迫关闭了一个现有的连接。.
+14:30:45[Information][54,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive/root-------<<<<成功
+14:30:47[Information][54,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive-------<<<<成功
+14:30:48[Information][54,0,]执行------>>>>>https://graph.microsoft.com/v1.0/drive/root-------<<<<成功
+14:30:48[Information][54,0,]执行------>>>>>https://graph.microsoft.com/v1.0/users-------<<<<成功
+14:30:49[Information][54,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/messages-------<<<<成功
+14:30:49[Information][54,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders/inbox/messageRules-------<<<<成功
+14:30:50[Information][54,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders/Inbox/messages/delta-------<<<<成功
+14:30:54[Information][54,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive/root/children-------<<<<成功
+14:31:16[Information][54,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders-------<<<<成功
+14:31:16[Information][54,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/outlook/masterCategories-------<<<<成功
+14:31:16[Error][54,0,]The SSL connection could not be established, see inner exception. Unable to read data from the transport connection: 远程主机强迫关闭了一个现有的连接。.
+14:32:18[Information][63,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive/root-------<<<<成功
+14:32:19[Information][63,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive-------<<<<成功
+14:32:20[Information][63,0,]执行------>>>>>https://graph.microsoft.com/v1.0/drive/root-------<<<<成功
+14:32:21[Information][63,0,]执行------>>>>>https://graph.microsoft.com/v1.0/users-------<<<<成功
+14:34:01[Error][63,0,]The operation has timed out.
+14:35:16[Information][71,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive/root-------<<<<成功
+14:35:17[Information][71,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive-------<<<<成功
+14:35:18[Information][71,0,]执行------>>>>>https://graph.microsoft.com/v1.0/drive/root-------<<<<成功
+14:35:22[Information][71,0,]执行------>>>>>https://graph.microsoft.com/v1.0/users-------<<<<成功
+14:35:22[Information][71,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/messages-------<<<<成功
+14:35:23[Information][71,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders/inbox/messageRules-------<<<<成功
+14:35:24[Information][71,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders/Inbox/messages/delta-------<<<<成功
+14:35:25[Information][71,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive/root/children-------<<<<成功
+14:35:29[Information][71,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders-------<<<<成功
+14:35:30[Information][71,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/outlook/masterCategories-------<<<<成功
+14:35:30[Error][71,0,]The SSL connection could not be established, see inner exception. Unable to read data from the transport connection: 远程主机强迫关闭了一个现有的连接。.
+14:36:33[Information][77,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive/root-------<<<<成功
+14:36:34[Information][77,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive-------<<<<成功
+14:36:35[Information][77,0,]执行------>>>>>https://graph.microsoft.com/v1.0/drive/root-------<<<<成功
+14:36:35[Information][77,0,]执行------>>>>>https://graph.microsoft.com/v1.0/users-------<<<<成功
+14:36:35[Information][77,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/messages-------<<<<成功
+14:36:36[Information][77,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders/inbox/messageRules-------<<<<成功
+14:36:36[Information][77,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders/Inbox/messages/delta-------<<<<成功
+14:36:37[Information][77,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive/root/children-------<<<<成功
+14:36:37[Information][77,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders-------<<<<成功
+14:36:44[Information][77,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/outlook/masterCategories-------<<<<成功
+14:36:44[Error][77,0,]The SSL connection could not be established, see inner exception. Unable to read data from the transport connection: 远程主机强迫关闭了一个现有的连接。.
+14:37:46[Information][83,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive/root-------<<<<成功
+14:37:47[Information][83,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive-------<<<<成功
+14:37:48[Information][83,0,]执行------>>>>>https://graph.microsoft.com/v1.0/drive/root-------<<<<成功
+14:37:48[Information][83,0,]执行------>>>>>https://graph.microsoft.com/v1.0/users-------<<<<成功
+14:37:53[Information][83,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/messages-------<<<<成功
+14:37:53[Information][83,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders/inbox/messageRules-------<<<<成功
+14:37:54[Information][83,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders/Inbox/messages/delta-------<<<<成功
+14:37:55[Information][83,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive/root/children-------<<<<成功
+14:37:56[Information][83,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders-------<<<<成功
+14:37:56[Information][83,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/outlook/masterCategories-------<<<<成功
+14:37:56[Error][83,0,]The SSL connection could not be established, see inner exception. Unable to read data from the transport connection: 远程主机强迫关闭了一个现有的连接。.
+14:38:58[Information][89,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive/root-------<<<<成功
+14:38:59[Information][89,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive-------<<<<成功
+14:39:00[Information][89,0,]执行------>>>>>https://graph.microsoft.com/v1.0/drive/root-------<<<<成功
+14:39:00[Information][89,0,]执行------>>>>>https://graph.microsoft.com/v1.0/users-------<<<<成功
+14:39:04[Information][89,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/messages-------<<<<成功
+14:39:04[Information][89,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders/inbox/messageRules-------<<<<成功
+14:39:04[Information][89,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders/Inbox/messages/delta-------<<<<成功
+14:39:06[Information][89,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive/root/children-------<<<<成功
+14:39:06[Information][89,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders-------<<<<成功
+14:39:07[Information][89,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/outlook/masterCategories-------<<<<成功
+14:39:11[Error][89,0,]The SSL connection could not be established, see inner exception. Unable to read data from the transport connection: 远程主机强迫关闭了一个现有的连接。.
+14:40:12[Information][96,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive/root-------<<<<成功
+14:40:13[Information][96,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive-------<<<<成功
+14:40:14[Information][96,0,]执行------>>>>>https://graph.microsoft.com/v1.0/drive/root-------<<<<成功
+14:40:14[Information][96,0,]执行------>>>>>https://graph.microsoft.com/v1.0/users-------<<<<成功
+14:40:15[Information][96,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/messages-------<<<<成功
+14:40:15[Information][96,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders/inbox/messageRules-------<<<<成功
+14:40:15[Information][96,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders/Inbox/messages/delta-------<<<<成功
+14:40:16[Information][96,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive/root/children-------<<<<成功
+14:40:17[Information][96,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders-------<<<<成功
+14:40:18[Information][96,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/outlook/masterCategories-------<<<<成功
+14:40:18[Error][96,0,]The SSL connection could not be established, see inner exception. Unable to read data from the transport connection: 远程主机强迫关闭了一个现有的连接。.
+14:41:20[Information][101,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive/root-------<<<<成功
+14:41:21[Information][101,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive-------<<<<成功
+14:41:22[Information][101,0,]执行------>>>>>https://graph.microsoft.com/v1.0/drive/root-------<<<<成功
+14:41:23[Information][101,0,]执行------>>>>>https://graph.microsoft.com/v1.0/users-------<<<<成功
+14:41:23[Information][101,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/messages-------<<<<成功
+14:41:24[Information][101,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders/inbox/messageRules-------<<<<成功
+14:41:24[Information][101,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders/Inbox/messages/delta-------<<<<成功
+14:41:25[Information][101,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive/root/children-------<<<<成功
+14:41:26[Information][101,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders-------<<<<成功
+14:41:26[Information][101,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/outlook/masterCategories-------<<<<成功
+14:41:26[Error][101,0,]The SSL connection could not be established, see inner exception. Unable to read data from the transport connection: 远程主机强迫关闭了一个现有的连接。.
+14:42:28[Information][108,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive/root-------<<<<成功
+14:42:29[Information][108,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive-------<<<<成功
+14:42:30[Information][108,0,]执行------>>>>>https://graph.microsoft.com/v1.0/drive/root-------<<<<成功
+14:42:31[Information][108,0,]执行------>>>>>https://graph.microsoft.com/v1.0/users-------<<<<成功
+14:42:31[Information][108,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/messages-------<<<<成功
+14:42:31[Information][108,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders/inbox/messageRules-------<<<<成功
+14:42:32[Information][108,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders/Inbox/messages/delta-------<<<<成功
+14:42:33[Information][108,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive/root/children-------<<<<成功
+14:42:34[Information][108,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders-------<<<<成功
+14:42:35[Information][108,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/outlook/masterCategories-------<<<<成功
+14:42:35[Error][108,0,]The SSL connection could not be established, see inner exception. Unable to read data from the transport connection: 远程主机强迫关闭了一个现有的连接。.
+14:43:37[Information][113,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive/root-------<<<<成功
+14:43:38[Information][113,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive-------<<<<成功
+14:43:39[Information][113,0,]执行------>>>>>https://graph.microsoft.com/v1.0/drive/root-------<<<<成功
+14:43:39[Information][113,0,]执行------>>>>>https://graph.microsoft.com/v1.0/users-------<<<<成功
+14:43:39[Information][113,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/messages-------<<<<成功
+14:43:40[Information][113,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders/inbox/messageRules-------<<<<成功
+14:43:40[Information][113,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders/Inbox/messages/delta-------<<<<成功
+14:43:41[Information][113,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive/root/children-------<<<<成功
+14:43:41[Information][113,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders-------<<<<成功
+14:43:42[Information][113,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/outlook/masterCategories-------<<<<成功
+14:43:42[Error][113,0,]The SSL connection could not be established, see inner exception. Unable to read data from the transport connection: 远程主机强迫关闭了一个现有的连接。.
+14:44:44[Information][118,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive/root-------<<<<成功
+14:44:44[Information][118,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive-------<<<<成功
+14:44:49[Information][118,0,]执行------>>>>>https://graph.microsoft.com/v1.0/drive/root-------<<<<成功
+14:44:50[Information][118,0,]执行------>>>>>https://graph.microsoft.com/v1.0/users-------<<<<成功
+14:44:50[Information][118,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/messages-------<<<<成功
+14:44:51[Information][118,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders/inbox/messageRules-------<<<<成功
+14:44:51[Information][118,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders/Inbox/messages/delta-------<<<<成功
+14:44:53[Information][118,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive/root/children-------<<<<成功
+14:44:53[Information][118,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders-------<<<<成功
+14:44:54[Information][118,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/outlook/masterCategories-------<<<<成功
+14:44:54[Error][118,0,]The SSL connection could not be established, see inner exception. Unable to read data from the transport connection: 远程主机强迫关闭了一个现有的连接。.
+14:45:56[Information][123,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive/root-------<<<<成功
+14:45:57[Information][123,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive-------<<<<成功
+14:45:59[Information][123,0,]执行------>>>>>https://graph.microsoft.com/v1.0/drive/root-------<<<<成功
+14:45:59[Information][123,0,]执行------>>>>>https://graph.microsoft.com/v1.0/users-------<<<<成功
+14:46:00[Information][123,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/messages-------<<<<成功
+14:46:00[Information][123,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders/inbox/messageRules-------<<<<成功
+14:46:01[Information][123,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders/Inbox/messages/delta-------<<<<成功
+14:46:01[Information][123,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive/root/children-------<<<<成功
+14:46:02[Information][123,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders-------<<<<成功
+14:46:10[Information][123,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/outlook/masterCategories-------<<<<成功
+14:46:10[Error][123,0,]The SSL connection could not be established, see inner exception. Unable to read data from the transport connection: 远程主机强迫关闭了一个现有的连接。.
+14:47:54[Information][128,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive/root-------<<<<成功
+14:47:54[Information][128,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive-------<<<<成功
+14:47:56[Information][128,0,]执行------>>>>>https://graph.microsoft.com/v1.0/drive/root-------<<<<成功
+14:47:56[Information][128,0,]执行------>>>>>https://graph.microsoft.com/v1.0/users-------<<<<成功
+14:47:57[Information][128,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/messages-------<<<<成功
+14:47:57[Information][128,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders/inbox/messageRules-------<<<<成功
+14:47:57[Information][128,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders/Inbox/messages/delta-------<<<<成功
+14:47:58[Information][128,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive/root/children-------<<<<成功
+14:48:03[Information][128,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders-------<<<<成功
+14:48:03[Information][128,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/outlook/masterCategories-------<<<<成功
+14:48:03[Error][128,0,]The SSL connection could not be established, see inner exception. Unable to read data from the transport connection: 远程主机强迫关闭了一个现有的连接。.
+14:49:05[Information][135,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive/root-------<<<<成功
+14:49:06[Information][135,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive-------<<<<成功
+14:49:07[Information][135,0,]执行------>>>>>https://graph.microsoft.com/v1.0/drive/root-------<<<<成功
+14:49:07[Information][135,0,]执行------>>>>>https://graph.microsoft.com/v1.0/users-------<<<<成功
+14:49:08[Information][135,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/messages-------<<<<成功
+14:49:08[Information][135,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders/inbox/messageRules-------<<<<成功
+14:49:09[Information][135,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders/Inbox/messages/delta-------<<<<成功
+14:49:10[Information][135,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive/root/children-------<<<<成功
+14:49:13[Information][135,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders-------<<<<成功
+14:49:14[Information][135,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/outlook/masterCategories-------<<<<成功
+14:49:14[Error][135,0,]The SSL connection could not be established, see inner exception. Unable to read data from the transport connection: 远程主机强迫关闭了一个现有的连接。.
+14:50:16[Information][142,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive/root-------<<<<成功
+14:50:17[Information][142,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive-------<<<<成功
+14:50:21[Information][142,0,]执行------>>>>>https://graph.microsoft.com/v1.0/drive/root-------<<<<成功
+14:50:24[Information][142,0,]执行------>>>>>https://graph.microsoft.com/v1.0/users-------<<<<成功
+14:50:24[Information][142,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/messages-------<<<<成功
+14:50:25[Information][142,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders/inbox/messageRules-------<<<<成功
+14:50:29[Information][142,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders/Inbox/messages/delta-------<<<<成功
+14:50:30[Information][142,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive/root/children-------<<<<成功
+14:50:45[Information][142,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders-------<<<<成功
+14:50:46[Information][142,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/outlook/masterCategories-------<<<<成功
+14:50:46[Error][142,0,]The SSL connection could not be established, see inner exception. Unable to read data from the transport connection: 远程主机强迫关闭了一个现有的连接。.

@@ -1,0 +1,14 @@
+﻿14:13:30[Information][1,0,]Application started. Press Ctrl+C to shut down.
+14:13:30[Information][1,0,]Hosting environment: Development
+14:13:30[Information][1,0,]Content root path: E:\hisWork\office365
+14:14:32[Information][19,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive/root-------<<<<成功
+14:14:33[Information][19,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive-------<<<<成功
+14:14:34[Information][19,0,]执行------>>>>>https://graph.microsoft.com/v1.0/drive/root-------<<<<成功
+14:14:35[Information][19,0,]执行------>>>>>https://graph.microsoft.com/v1.0/users-------<<<<成功
+14:14:35[Information][19,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/messages-------<<<<成功
+14:14:36[Information][19,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders/inbox/messageRules-------<<<<成功
+14:14:47[Information][19,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders/Inbox/messages/delta-------<<<<成功
+14:14:48[Information][19,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/drive/root/children-------<<<<成功
+14:14:49[Information][19,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/mailFolders-------<<<<成功
+14:14:56[Information][19,0,]执行------>>>>>https://graph.microsoft.com/v1.0/me/outlook/masterCategories-------<<<<成功
+14:14:56[Error][19,0,]The SSL connection could not be established, see inner exception. Unable to read data from the transport connection: 远程主机强迫关闭了一个现有的连接。.
