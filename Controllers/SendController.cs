@@ -60,7 +60,7 @@ namespace office365.Controllers
         {
             try
             {
-                string txtPath = _hostingEnvironment.ContentRootPath + "\\refreshToken.txt"; ;
+                string txtPath = _hostingEnvironment.ContentRootPath + "/refreshToken.txt"; ;
                 HttpRequestClient http = new HttpRequestClient();
                 http.SetField("client_id", ConfigExtensions.Configuration["ClientId"]);
                 http.SetField("client_secret", ConfigExtensions.Configuration["ClientSecret"]);

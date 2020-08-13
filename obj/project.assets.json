@@ -59,11 +59,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\hisWork\\office365\\office365.csproj",
+      "projectUniqueName": "E:\\hisWork\\office\\office365.csproj",
       "projectName": "office365",
-      "projectPath": "E:\\hisWork\\office365\\office365.csproj",
+      "projectPath": "E:\\hisWork\\office\\office365.csproj",
       "packagesPath": "C:\\Users\\wulincheng\\.nuget\\packages\\",
-      "outputPath": "E:\\hisWork\\office365\\obj\\",
+      "outputPath": "E:\\hisWork\\office\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\",

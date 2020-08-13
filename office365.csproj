@@ -10,7 +10,7 @@
 
   <ItemGroup>
     <None Update="refreshToken.txt">
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>
 
